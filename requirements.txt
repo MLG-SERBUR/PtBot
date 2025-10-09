@@ -1,0 +1,4 @@
+discord.py
+openai-whisper
+discord-ext-voice-recv
+pynacl
