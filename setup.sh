@@ -1,5 +1,6 @@
 #!/bin/bash
 
+set -e
 echo "Setting up Python virtual environment..."
 
 # Create virtual environment if it doesn't exist
